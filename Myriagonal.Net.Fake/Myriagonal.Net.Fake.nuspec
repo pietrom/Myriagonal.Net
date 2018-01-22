@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Myriagonal.Net.Fake</id>
-    <version>0.0.2.0</version>
+    <version>0.0.2.1</version>
     <title>Myriagonal.Net.Fake</title>
     <authors>Pietro Martinelli</authors>
     <owners>Pietro Martinelli</owners>
@@ -12,7 +12,7 @@
     <copyright>Copyleft 2018</copyright>
     <tags>hexagonal architecture library</tags>
     <dependencies>
-      <dependency id="Myriagonal.Net.Core" version="0.0.2.0" />
+      <dependency id="Myriagonal.Net.Core" version="0.0.2.1" />
     </dependencies>
   </metadata>
   <files>
