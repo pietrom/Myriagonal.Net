@@ -12,6 +12,8 @@ namespace Myriagonal.Net.Tests.Sys {
             DateTimeOffset before = DateTimeOffset.Now;
             DateTimeOffset current = clock.Now;
             DateTimeOffset after = DateTimeOffset.Now;
+            
+            Assert.That(current, Is.GreaterThanOrEqualTo(before).And.LessThanOrEqualTo(after));
         }
     }
 }
