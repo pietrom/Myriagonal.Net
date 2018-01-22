@@ -9,8 +9,8 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Myriagonal.Net.Core</description>
     <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
-    <copyright>Copyright 2018</copyright>
-    <tags>Tag1 Tag2</tags>
+    <copyright>Copyleft 2018</copyright>
+    <tags>hexagonal architecture library core</tags>
   </metadata>
   <files>
     <file src="bin/Release/*" target="lib/net46" />
