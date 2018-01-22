@@ -1,9 +1,9 @@
 ﻿using System;
 using Myriagonal.Net.Core;
-using Myriagonal.Net.Fake;
+using Myriagonal.Net.Dummy;
 using NUnit.Framework;
 
-namespace Myriagonal.Net.Tests.Fake {
+namespace Myriagonal.Net.Tests.Dummy {
     [TestFixture]
     public class FixedClockTest {
         [Test]

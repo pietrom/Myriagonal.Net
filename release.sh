@@ -13,7 +13,7 @@ then
     mkdir target
 fi
 
-projects="Core Sys Fake"
+projects="Core Sys Dummy"
 for prj in $projects
 do
 	nuget pack "Myriagonal.Net.${prj}/Myriagonal.Net.${prj}.nuspec" -OutputDirectory ./target
