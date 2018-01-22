@@ -43,9 +43,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Myriagonal.Net.Fake.nuspec" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\Myriagonal.Net.Core\Myriagonal.Net.Core.csproj">
       <Project>{8a20f5fe-8512-4c90-9c84-878f04f985d6}</Project>
       <Name>Myriagonal.Net.Core</Name>
