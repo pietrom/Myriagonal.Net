@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SystemClock.cs" />
+    <Compile Include="SystemConsoleLogger.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Myriagonal.Net.Core\Myriagonal.Net.Core.csproj">
