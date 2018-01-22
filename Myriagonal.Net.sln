@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.0.0
 MinimumVisualStudioVersion = 10.0.0.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Myriagonal.Net.Tests.Sys", "Myriagonal.Net.Tests.Sys/Myriagonal.Net.Tests.Sys.csproj", "{E36E651D-5E46-47A6-8D3F-3124FEBC012B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Myriagonal.Net.Tests", "Myriagonal.Net.Tests/Myriagonal.Net.Tests.csproj", "{E36E651D-5E46-47A6-8D3F-3124FEBC012B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Myriagonal.Net.Sys", "Myriagonal.Net.Sys\Myriagonal.Net.Sys.csproj", "{E88C74CC-5C6D-45C4-A686-B6E1D8B447A3}"
 EndProject
