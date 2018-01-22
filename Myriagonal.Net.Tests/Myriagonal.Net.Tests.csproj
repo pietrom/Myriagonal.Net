@@ -10,7 +10,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Myriagonal.Net.Tests</RootNamespace>
-    <AssemblyName>Myriagonal.Net.Tests.Sys</AssemblyName>
+    <AssemblyName>Myriagonal.Net.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
