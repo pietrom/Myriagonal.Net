@@ -1,4 +1,8 @@
 language: csharp
-solution: Myriagonal.Net.sln 
-mono:
- - latest
+solution: Myriagonal.Net.sln
+install:
+  - nuget restore Myriagonal.Net.sln
+  - nuget install NUnit.Runners -Version 3.7.0 -OutputDirectory testrunner
+script:
+  - xbuild /p:Configuration=Release Myriagonal.Net.sln
+  - mono ./testrunner/NUnit.Runners.3.7.0/tools/nunit-console.exe ./Myriagonal.Net.Tests/bin/Release/Myriagonal.Net.Tests.dll
