@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Myriagonal.Net.Sys", "Myria
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Myriagonal.Net.Core", "Myriagonal.Net.Core\Myriagonal.Net.Core.csproj", "{8A20F5FE-8512-4C90-9C84-878F04F985D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Myriagonal.Net.Fake", "Myriagonal.Net.Fake\Myriagonal.Net.Fake.csproj", "{8031C539-6195-4334-838D-B018EB3C1CC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8A20F5FE-8512-4C90-9C84-878F04F985D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A20F5FE-8512-4C90-9C84-878F04F985D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A20F5FE-8512-4C90-9C84-878F04F985D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8031C539-6195-4334-838D-B018EB3C1CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8031C539-6195-4334-838D-B018EB3C1CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8031C539-6195-4334-838D-B018EB3C1CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8031C539-6195-4334-838D-B018EB3C1CC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
